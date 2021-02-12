@@ -1,1 +1,1 @@
-# rea-605
+This is the repository for the website.
